@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Expense Tracker migration project setup complete ✅")
+	fmt.Println("migration project setup complete ")
 }
